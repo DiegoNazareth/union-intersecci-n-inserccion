@@ -5,7 +5,7 @@ de enteros ordenados o desordenados), y que permita realizar las siguientes oper
 resultando ser el resultado de la operación
 • Inclusión de conjunto en su conjunto en el conjunto B siempre y cuando cada elemento de A 
 pertenece a
-/ • Intersección es el conjunto formado por los conjuntos comunes a ambos conjuntos
+/ • Intersección es el conjunto formado por los conjuntos comunes a ambos conjuntos*/
 #include <iostream>
 #include <stdio.h>
 using namespace std;
